@@ -1,2 +1,4 @@
 # hello-world
-1st Repository. Learning how to use Github
+
+So now this is gonna be my template, so I can personalize my README profile file.
+let's see.
